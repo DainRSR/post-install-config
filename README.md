@@ -31,18 +31,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jSyQqvE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. We will create roles as Admin and distributing them to Agents on the Helpdesk team. To see more information about roles checkout this link https://docs.osticket.com/en/latest/Admin/Agents/Roles.html . Go to the Admin Panel, click agents and then roles. We can now 'Add New Role'. You can name it Supreme Admin or whatever you want for this practice lab. Then go to permissions and you will see 'Tickets, Tasks, Knowledgbase' just select everything from each of those groups and then click Add Role. This user of Supreme Admin will be able to do everything and assign permissions to others. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x85AaS2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Next we will create a 'Department'. The departments will determine how the tickets get placed depending on the issue at hand. Go to Admin Panel, Agents and then Department and add a new department. Only make the changes you see in the image. We will configure the SLA's later. Scroll down an click create department.  
 </p>
 <br />
 
