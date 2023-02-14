@@ -51,6 +51,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DYxhphC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3.0 Now lets create 'Agents', these are the helpdesk individuals that will help solve tickets. Go to Admin panel, Agents and click add new agent. You can name your agents whatsveer you choose. Just remeber their credentials for when we need it to log in as them and respond to tickets. Create a name, email and username. Then click set password to create a password for your Agent. Uncheck both boxes, create password and press ok. Go to Access and set department to 'System Administrators' and the role will be 'Supreme Admin' and go to teams and set to Level II Support that we created. Click create and go back to Agents and create another one. 
+3.0 Now lets create 'Agents', these are the helpdesk individuals that will help solve tickets. Go to Admin panel, Agents and click add new agent. You can name your agents whatsveer you choose. Just remeber their credentials for when we need it to log in as them and respond to tickets. Create a name, email and username. Then click set password to create a password for your Agent. Uncheck both boxes, create password and press ok. Go to Access and set department to 'System Administrators' and the role will be 'Supreme Admin' and go to teams and set to Level II Support that we created. Click create and go back to Agents and follow the same steps to create a new Agent. This time under the Acess tab the department will be 'Support' and the role will be 'Expanded access'. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hMAn0Qv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+3.1 We will create our users for this step. Users are the individuals that will create the tickets and send to the Agents for their IT needs. Go to Agent Panel, users and add new user. This is a pretty simple setup. Just add a name of your choosing and an email address like the one in the image. We will create 2 users, so repeat the process again. 
 </p>
 <br />
