@@ -42,14 +42,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/x85AaS2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Next we will create a 'Department'. The departments will determine how the tickets get placed depending on the issue at hand. Go to Admin Panel, Agents and then Department and add a new department. Only make the changes you see in the image. We will configure the SLA's later. Scroll down an click create department.  
-</p>
+2. Next we will create a 'Department'. The departments will determine how the tickets get placed depending on the issue at hand. Go to Admin Panel, Agents and then Department and add a new department. Only make the changes you see in the image. We will configure the SLA's later. Scroll down an click create department. To learn more about departments you can checkout this link https://docs.osticket.com/en/latest/Admin/Agents/Departments.html
+
+2.1 Now we will create our 'Teams', which will allow us to get agents from different departments to fix issues. Go to Admin panel, Agents, Teams and then Add new team. You can name your team 'Level II Support'. Click on members and you can add yourself to this team for now since we have not created other memebers yet.   
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DYxhphC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3.0 Now lets create 'Agents', these are the helpdesk individuals that will help solve tickets. Go to Admin panel, Agents and click add new agent. You can name your agents whatsveer you choose. Just remeber their credentials for when we need it to log in as them and respond to tickets. Create a name, email and username. Then click set password to create a password for your Agent. Uncheck both boxes, create password and press ok. Go to Access and set department to 'System Administrators' and the role will be 'Supreme Admin' and go to teams and set to Level II Support that we created. Click create and go back to Agents and create another one. 
 </p>
 <br />
